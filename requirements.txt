@@ -1,0 +1,7 @@
+requests>=2.25.0
+beautifulsoup4>=4.9.0
+selenium>=4.10.0
+chromedriver-autoinstaller>=0.6.0
+Pillow>=9.0.0
+xpinyin>=0.7.6
+tk 
